@@ -1,0 +1,16 @@
+{
+  "source": "/Users/paulflanagan/Desktop/cowrite/cowrite/views/ProjectView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Title"
+      },
+      {
+        "comment": "",
+        "key": "Text"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/paulflanagan/Desktop/cowrite/cowrite/views/CreateProfile.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Create Profile"
+      },
+      {
+        "comment": "",
+        "key": "Details"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Email Address"
+      },
+      {
+        "comment": "",
+        "key": "Details about this profile"
+      }
+    ]
+  },
+  "version": 1
+}

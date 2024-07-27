@@ -1,0 +1,24 @@
+{
+  "source": "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Near Me"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      },
+      {
+        "comment": "",
+        "key": "Create"
+      },
+      {
+        "comment": "",
+        "key": "Profile"
+      }
+    ]
+  },
+  "version": 1
+}

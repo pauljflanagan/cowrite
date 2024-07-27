@@ -1,0 +1,209 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "01e6230122f9fd8e4eac315c996f6c2ad962af03ff9c6eaf94fcc56c6092ed6a",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Products",
+          "derivedDataPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+              "DSTROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex",
+              "SYMROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B7FF6D1C-1DB3-4F58-A028-C8DEA38B9269",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "01e6230122f9fd8e4eac315c996f6c2a1bbd877e45110a603dc5a1494350b73b",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Products",
+          "derivedDataPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+              "DSTROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex",
+              "SYMROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B7FF6D1C-1DB3-4F58-A028-C8DEA38B9269",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "01e6230122f9fd8e4eac315c996f6c2a7d6f0d037a666fbb9ee7e2d5035769d3",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Products",
+          "derivedDataPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+              "DSTROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex",
+              "SYMROOT" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B7FF6D1C-1DB3-4F58-A028-C8DEA38B9269",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/paulflanagan/Desktop/cowrite/cowrite.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Products",
+      "derivedDataPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/paulflanagan/Library/Developer/Xcode/DerivedData/cowrite-aahuairzuhaveybamrpqtpxklkof/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "B7FF6D1C-1DB3-4F58-A028-C8DEA38B9269",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

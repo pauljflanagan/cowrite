@@ -1,0 +1,98 @@
+{
+  "" : {
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowrite-master.dia",
+    "emit-module-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowrite-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowrite-master-emit-module.dia",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowrite-master.swiftdeps"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/ContentView.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/cowriteApp.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/cowriteApp~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/views/CreateProfile.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/CreateProfile~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/views/Profile.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/Profile~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/views/ProfileView.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/views/ProjectView.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ProjectView~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/views/ViewB.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewB~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowrite/views/ViewD.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowrite.build/Objects-normal/arm64/ViewD~partial.swiftmodule"
+  }
+}

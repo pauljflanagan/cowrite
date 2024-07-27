@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests-master.dia",
+    "emit-module-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests-master.swiftdeps"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowriteUITests/cowriteUITests.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITests~partial.swiftmodule"
+  },
+  "/Users/paulflanagan/Desktop/cowrite/cowriteUITests/cowriteUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests.d",
+    "diagnostics" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests.bc",
+    "object" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/paulflanagan/Desktop/cowrite/Build/Intermediates.noindex/Previews/iphonesimulator/cowrite/Intermediates.noindex/cowrite.build/Debug-iphonesimulator/cowriteUITests.build/Objects-normal/arm64/cowriteUITestsLaunchTests~partial.swiftmodule"
+  }
+}
